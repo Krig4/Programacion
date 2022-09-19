@@ -1,0 +1,30 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("¿Cuantos kilometros ha recorrido?:");
+    int km = Convert.ToInt32(Console.ReadLine());
+    int factura = Convert.ToInt32(Console.ReadLine());
+       if (km <=299) 
+    {   
+        Console.WriteLine("La factura es de 100€");
+    }
+ 
+    else if (300=<km>=1000)
+    {        
+        factura = (km-300)*10+100;
+            Console.WriteLine("La factura es de "+factura);
+    }
+    else
+    {
+        factura = (km-1000)*5+7090;
+            Console.WriteLine("La factura es de "+factura);
+    
+    }
+        }
+}
