@@ -1,0 +1,13 @@
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\obj\Debug\netcoreapp3.1\Tarot.csprojAssemblyReference.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\obj\Debug\netcoreapp3.1\Tarot.AssemblyInfoInputs.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\obj\Debug\netcoreapp3.1\Tarot.AssemblyInfo.cs
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\obj\Debug\netcoreapp3.1\Tarot.csproj.CoreCompileInputs.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\bin\Debug\netcoreapp3.1\Tarot.exe
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\bin\Debug\netcoreapp3.1\Tarot.deps.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\bin\Debug\netcoreapp3.1\Tarot.runtimeconfig.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\bin\Debug\netcoreapp3.1\Tarot.runtimeconfig.dev.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\bin\Debug\netcoreapp3.1\Tarot.dll
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\bin\Debug\netcoreapp3.1\Tarot.pdb
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\obj\Debug\netcoreapp3.1\Tarot.dll
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\obj\Debug\netcoreapp3.1\Tarot.pdb
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Tarot\Tarot\Tarot\obj\Debug\netcoreapp3.1\Tarot.genruntimeconfig.cache

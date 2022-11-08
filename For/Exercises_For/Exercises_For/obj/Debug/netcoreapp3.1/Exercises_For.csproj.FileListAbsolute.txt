@@ -1,0 +1,27 @@
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\bin\Debug\netcoreapp3.1\Exercises_For.exe
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\bin\Debug\netcoreapp3.1\Exercises_For.deps.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\bin\Debug\netcoreapp3.1\Exercises_For.runtimeconfig.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\bin\Debug\netcoreapp3.1\Exercises_For.runtimeconfig.dev.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\bin\Debug\netcoreapp3.1\Exercises_For.dll
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\bin\Debug\netcoreapp3.1\Exercises_For.pdb
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.csprojAssemblyReference.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.AssemblyInfoInputs.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.AssemblyInfo.cs
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.csproj.CoreCompileInputs.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.dll
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.pdb
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.genruntimeconfig.cache
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.csproj.AssemblyReference.cache
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.GeneratedMSBuildEditorConfig.editorconfig
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.AssemblyInfoInputs.cache
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.AssemblyInfo.cs
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.csproj.CoreCompileInputs.cache
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.dll
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.pdb
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\bin\Debug\netcoreapp3.1\Exercises_For.exe
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\bin\Debug\netcoreapp3.1\Exercises_For.deps.json
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\bin\Debug\netcoreapp3.1\Exercises_For.runtimeconfig.json
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\bin\Debug\netcoreapp3.1\Exercises_For.runtimeconfig.dev.json
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\bin\Debug\netcoreapp3.1\Exercises_For.dll
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\bin\Debug\netcoreapp3.1\Exercises_For.pdb
+G:\Usuario\Escritorio\DAW\Programación\For\Exercises_For\Exercises_For\obj\Debug\netcoreapp3.1\Exercises_For.genruntimeconfig.cache

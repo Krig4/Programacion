@@ -1,0 +1,13 @@
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\bin\Debug\netcoreapp3.1\EjerWhile.exe
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\bin\Debug\netcoreapp3.1\EjerWhile.deps.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\bin\Debug\netcoreapp3.1\EjerWhile.runtimeconfig.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\bin\Debug\netcoreapp3.1\EjerWhile.runtimeconfig.dev.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\bin\Debug\netcoreapp3.1\EjerWhile.dll
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\bin\Debug\netcoreapp3.1\EjerWhile.pdb
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\obj\Debug\netcoreapp3.1\EjerWhile.AssemblyInfoInputs.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\obj\Debug\netcoreapp3.1\EjerWhile.AssemblyInfo.cs
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\obj\Debug\netcoreapp3.1\EjerWhile.csproj.CoreCompileInputs.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\obj\Debug\netcoreapp3.1\EjerWhile.dll
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\obj\Debug\netcoreapp3.1\EjerWhile.pdb
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\obj\Debug\netcoreapp3.1\EjerWhile.genruntimeconfig.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\While\EjerWhile\EjerWhile\obj\Debug\netcoreapp3.1\EjerWhile.csprojAssemblyReference.cache
