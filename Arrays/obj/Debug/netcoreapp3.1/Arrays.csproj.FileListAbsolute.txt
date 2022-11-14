@@ -1,0 +1,40 @@
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+G:\Usuario\Escritorio\DAW\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+G:\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Mañana\Desktop\Alberto Guerra\Programación\Arrays\Primeros arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
